@@ -1,0 +1,32 @@
+{
+    "uniswap": {
+        "updated": 1658567329,
+        "current": 5.54,
+        "ath": 43.54,
+        "atl": 1.43
+    },
+    "ensdomains": {
+        "updated": 1658567329,
+        "current": 11.54,
+        "ath": 63.54,
+        "atl": 9.43
+    },
+    "dydx": {
+        "updated": 1658567329,
+        "current": 0.46,
+        "ath": 43.54,
+        "atl": 0.13
+    },
+    "apecoin": {
+        "updated": 1658567329,
+        "current": 4.46,
+        "ath": 33.54,
+        "atl": 1.13
+    },
+    "gitcoin": {
+        "updated": 1658567329,
+        "current": 1.46,
+        "ath": 8.54,
+        "atl": 0.73
+    }
+}

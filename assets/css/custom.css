@@ -1,0 +1,352 @@
+/*
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  
+*/
+
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  src: url(/assets/fonts/pxiByp8kv8JHgFVrLDz8Z1xlFd2JQEk.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/assets/fonts/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  src: url(/assets/fonts/pxiByp8kv8JHgFVrLGT9Z1xlFd2JQEk.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  src: url(/assets/fonts/pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+.clc {
+  cursor: pointer;
+}
+
+/* All customg stuffs comes here */
+.my-acc-adrs {
+  line-break: anywhere;
+}
+
+.lba {
+  line-break: anywhere;
+}
+
+.head-user-btn svg {
+  fill: #20D489
+}
+
+.si {
+  max-height: 20px !important;
+  max-width: 20px !important;
+}
+
+.svg_logoright {
+  width: 115.54px;
+  height: 27.148px;
+  margin-top: -7px;
+}
+.hsearch {
+  width: 369px
+}
+
+.logoimg {
+  height: 45px !important
+}
+/* SM */
+@media (max-width: 991px) { 
+  input.search{
+    height: 45px !important;
+    font-size: 1rem !important;
+    margin-top: 15px !important;
+  }
+  
+}
+
+
+@media (max-width: 576px) {
+  .logoimg {
+    height: 45px;
+    margin-top: 10px;
+  }
+
+  .symbol.symbol-50px.symbol-sm > img {
+    width: 25px;
+    height: 25px;
+  }
+  .symbol.symbol-50px.symbol-sm .symbol-label {
+    width: 25px;
+    height: 25px;
+  }  
+
+
+  .w-xs-98 {
+    width: 98%;
+  }
+
+  .ps-xs-0 {
+    padding-left: 0 !important;
+  }  
+  .pe-xs-0 {
+    padding-right: 0 !important;
+  }    
+
+  .p-xs-0 {
+    padding: 0 !important;
+  }    
+
+  .p-xs-1 {
+    padding: 0.25rem !important;
+  }
+  .p-xs-2 {
+    padding: 0.5rem !important;
+  }
+
+  .p-xs-3 {
+    padding: 0.75rem !important
+  }
+
+  .col-0 {
+    width: 0px !important;
+  }
+
+  .d-xs-none {
+    display: none !important;
+  }
+
+  .fs-xs-7 {
+    font-size: 0.95rem !important;
+  }
+  .fs-xs-8 {
+    font-size: 0.85rem !important;
+  }  
+  .fs-xs-10 {
+    font-size: 0.65rem !important;
+  }    
+  .d-xs-inline {
+    display: inline-block !important;
+  }
+
+  .float-xs-end {
+    float: right !important;
+  }  
+
+  .mb-xs-8{
+    margin-bottom: 2rem !important;
+  }
+
+  .btn-src {
+    margin-top: 1.25rem !important;
+    height: 45px !important
+  }
+  .src-msg {
+    width: 100% !important;
+
+  }
+
+  .py-xs-1 {
+    padding-top: 0.25rem !important;
+    padding-bottom: 0.25rem !important;
+  }
+
+  .pt-xs-1 {
+    padding-top: 0.25rem !important;
+  }
+
+  .pt-xs-0 {
+    padding-top: 0rem !important;
+  }
+  
+  .mb-xs-4 {
+    margin-bottom: 1rem !important;
+  }  
+  .homesearch form {
+    display: none;
+  }
+
+  .homeClass  .searchform {
+    margin-top: 6rem !important;
+    margin-bottom: 0px !important;
+  }
+
+  .col-xs-3 {
+    flex: 0 0 auto;
+    width: 25%;
+  }  
+
+  .col-xs-6 {
+    flex: 0 0 auto;
+    width: 50%;
+  }    
+
+  .me-xs-1 {
+    margin-right: 0.25rem !important;
+  }
+  .mb-xs-1 {
+    margin-bottom: 0.25rem !important;
+  }
+
+  .text-xs-start {
+    text-align: left !important;
+  }
+
+  .flex-row-reverse-xs {
+    flex-direction: row-reverse !important;
+  }
+
+  .btn-src {
+    color: #fff !important;
+    background: #00b2ff !important;
+  }
+
+  .mx-xs-0 {
+    margin-left: 0rem !important;
+    margin-right: 0rem !important;
+  }
+
+}
+
+.fill-primary {
+  fill: var(--bs-primary);
+}
+.fill-white {
+  fill: var(--bs-white);
+}
+.fill-light {
+  fill: var(--bs-light);
+}
+.fill-secondary {
+  fill: var(--bs-secondary);
+}
+.fill-success {
+  fill: var(--bs-success);
+}
+.fill-info {
+  fill: var(--bs-info);
+}
+.fill-warning {
+  fill: var(--bs-warning);
+}
+.fill-danger {
+  fill: var(--bs-danger);
+}
+.fill-dark {
+  fill: var(--bs-dark);
+}
+
+
+.ani-hover-scale {
+  transition: transform 0.3s ease;
+}
+.ani-hover-scale:hover {
+  transform: scale(1.1);
+  transition: transform 0.3s ease;
+}
+
+.logoSecond {
+    
+  color: #00b2ff;
+  font-size: 1.8em;
+  font-family: Righteous,cursive;
+}
+
+.logoFirst {
+  font-family: Titan One,cursive;
+  color: #f1416c;
+  margin-right: 6px;
+  font-size: 2.6rem;
+}
+
+.logoWrap {
+
+}
+
+.btn-src {
+  height: 38px;
+  margin-top: 1px;
+  padding-top: 11px !important;
+  font-size: 0.9rem;
+}
+
+.src-msg {
+  position: absolute;
+  height: auto;
+  width: 400px;
+  z-index: 123;
+  
+}
+
+.homesearch input{
+  height: 75px !important;
+  font-size: 2rem !important;
+  z-index: 1 !important;
+}
+
+.mainmenuitems {
+  z-index: 123123 !important;
+}
+
+.wrap.homeClass .hsearch {
+  display: none !important;
+}
+.homesearch .btn-src {
+  color: #ffffff;
+  background: #00b2ff;
+}
+
+/* Tooltip container */
+.tltip {
+  position: relative;
+  display: inline-block;
+  font-weight: bold;
+}
+
+/* Tooltip text */
+.tltip .tltiptext {
+  visibility: hidden;
+  width: 120px;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+ 
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  z-index: 1;
+
+  top: 100%;
+  left: 50%;
+  margin-left: -60px;  
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tltip:hover .tltiptext {
+  visibility: visible;
+}
+
+.ms-a {
+  margin-left: auto;
+}

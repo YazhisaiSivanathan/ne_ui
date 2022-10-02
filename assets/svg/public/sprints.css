@@ -1,0 +1,53 @@
+.svg_bars,
+.svg_bell,
+.svg_check-double,
+.svg_ellipsis,
+.svg_grip,
+.svg_lock {
+  width: 448px;
+  height: 512px;
+}
+.svg_cart-plus,
+.svg_cart-shopping,
+.svg_hand-holding-dollar {
+  width: 576px;
+  height: 512px;
+}
+.svg_circle-info,
+.svg_circle-plus,
+.svg_circle-xmark,
+.svg_facebook,
+.svg_layer-group,
+.svg_list-check,
+.svg_reddit,
+.svg_twitter,
+.svg_wallet {
+  width: 512px;
+  height: 512px;
+}
+.svg_discord,
+.svg_link,
+.svg_medium,
+.svg_user-plus,
+.svg_users {
+  width: 640px;
+  height: 512px;
+}
+.svg_dollar-sign,
+.svg_question {
+  width: 320px;
+  height: 512px;
+}
+.svg_github,
+.svg_telegram {
+  width: 496px;
+  height: 512px;
+}
+.svg_loggleft {
+  width: 144.058px;
+  height: 31.45px;
+}
+.svg_logoright {
+  width: 115.54px;
+  height: 28.148px;
+}

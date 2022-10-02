@@ -1,0 +1,619 @@
+[
+  {
+    "name": "Ethereum Name Service",
+    "project_name": "ENS Domains",
+    "desc": "Decentralised naming for wallets, websites, & more.",
+    "tld": "eth",
+    "checkk_link": "https://app.ens.domains/search/((domain))",
+    "prices": [
+
+    ],
+    "website": "https://ens.domains",
+    "logo": "ens.svg",
+    "chain": "Ethereum",
+    "status": 1
+  },
+  {
+    "name": "BNB Name Service",
+    "name_2": "Space ID",
+    "desc": "A universal name service network that connects people, information, and assets across all blockchains and apps",
+    "tld": "bnb",
+    "checkk_link": "https://app.space.id/name/((domain)).bnb/register",
+    "prices": [
+
+    ],
+    "website": "https://space.id/",
+    "logo": "bnb.svg",
+    "chain": "Binance Smart Chain",
+    "status": 1
+  },
+  {
+    "name": "Tezos Domains",
+    "name_2": "",
+    "desc": "Friendly Names for tezos",
+    "tld": "tez",
+    "checkk_link": "https://app.tezos.domains/domain/((domain)).tez",
+    "prices": [
+
+    ],
+    "website": "https://tezos.domains/",
+    "logo": "tez.svg",
+    "chain": "Tezos",
+    "status": 1
+  },
+  {
+    "name": "Lens Protocol",
+    "name_2": "",
+    "desc": "Username for Lens social network",
+    "tld": "lens",
+    "checkk_link": "https://claim.lens.xyz/",
+    "prices": [
+
+    ],
+    "website": "https://claim.lens.xyz/",
+    "logo": "lens.svg",
+    "chain": "Polygon",
+    "status": 1
+  },  
+  {
+    "name": "Solana Name Service",
+    "name_2": "Bonfida Naming",
+    "desc": "A Humanized ID for the Metaverse",
+    "tld": "sol",
+    "checkk_link": "https://naming.bonfida.org/search?search=((domain))",
+    "prices": [
+
+    ],
+    "website": "https://naming.bonfida.org/",
+    "logo": "sol.svg",
+    "chain": "Solona",
+    "status": 1,
+    "notes": "Add Expiry date for domains."
+  },    
+  {
+    "name": "Handshake Names",
+    "name_2": "",
+    "desc": "Decentralized naming and certificate authority",
+    "tld": "hns",
+    "checkk_link": "https://www.namebase.io/domains/((domain))",
+    "prices": [
+
+    ],
+    "website": "https://handshake.org/",
+    "logo": "hns.svg",
+    "chain": "Handshake Network",
+    "status": 1
+  },
+  {
+    "name": "Flow Name Service (FN)",
+    "name_2": "FlowNS",
+    "desc": "An opening protocol of identities and assets in digital world.",
+    "tld": "fn",
+    "checkk_link": "https://www.flowns.org/search?fns=((domain)).fn",
+    "prices": [
+
+    ],
+    "website": "https://www.flowns.org/",
+    "logo": "flow.svg",
+    "chain": "Flow Blockchain",
+    "status": 1
+  },
+  {
+    "name": "Flow Name Service (Meow)",
+    "name_2": "FlowNS",
+    "desc": "An opening protocol of identities and assets in digital world.",
+    "tld": "meow",
+    "checkk_link": "https://www.flowns.org/search?fns=((domain)).meow",
+    "prices": [
+
+    ],
+    "website": "https://www.flowns.org/",
+    "logo": "flow.svg",
+    "chain": "Flow Blockchain",
+    "status": 1
+  },  
+  {
+    "name": "Deso Username",
+    "name_2": "Deso",
+    "desc": "The Decentralized Social Blockchain",
+    "tld": "deso",
+    "checkk_link": "https://diamondapp.com/u/((domain))",
+    "prices": [
+
+    ],
+    "website": "https://www.deso.org/",
+    "logo": "deso.svg",
+    "chain": "DeSo Blockchain",
+    "status": 2
+  },   
+  {
+    "name": "Bit Names",
+    "name_2": "DID ID",
+    "desc": "Cross-chain Web3 identities for you and your community",
+    "tld": "bit",
+    "checkk_link": "https://app.did.id/explorer?searchWord=((domain))",
+    "prices": [
+
+    ],
+    "website": "https://www.did.id/",
+    "logo": "didid.svg",
+    "chain": "Ethereum, Polygon, BSC and Tron",
+    "status": 2
+  },
+  {
+    "name": "Aptos Name System",
+    "name_2": "",
+    "desc": "Names for the metaverse",
+    "tld": "aptos",
+    "checkk_link": "https://www.aptosnames.com/name/((domain))",
+    "prices": [
+
+    ],
+    "website": "https://www.aptosnames.com",
+    "logo": "aptos.svg",
+    "chain": "Aptos",
+    "status": 2
+  },       
+  {
+    "name": "Polkadot Name System",
+    "name_2": "PNS Link",
+    "desc": "A DID Infrastructure for Polkadot",
+    "tld": "dot",
+    "checkk_link": "https://www.pns.link/search?keyword=((domain))",
+    "prices": [
+
+    ],
+    "website": "https://www.pns.link/",
+    "logo": "pns.svg",
+    "chain": "Polkadot",
+    "status": 2
+  },     
+  {
+    "name": "Avalanche Name Service",
+    "name_2": "Avvy Domains",
+    "desc": "Naming service designed to support the Avalanche ecosystem and its various subnets",
+    "tld": "avax",
+    "checkk_link": "https://app.avvy.domains/domains/asdadasd.((avax))",
+    "prices": [
+
+    ],
+    "website": "https://avvy.domains/",
+    "logo": "avax.svg",
+    "chain": "Avalanche Network",
+    "status": 2
+  },    
+  {
+    "name": "Neo Name Service",
+    "name_2": "Neo NS",
+    "desc": "A decentralized .neo domain name service for next-gen internet web applications.",
+    "tld": "neo",
+    "checkk_link": "https://neo.link/search?search=((domain))",
+    "prices": [
+
+    ],
+    "website": "https://neo.link/",
+    "logo": "neons.svg",
+    "chain": "Neo Blockchain",
+    "status": 2
+  },  
+  {
+    "name": "Fantom Name Service",
+    "name_2": "Fantom Domains",
+    "desc": "Decentralised naming for wallet, website, & more",
+    "tld": "ftm",
+    "checkk_link": "https://app.fantomdomains.io/search/((domain))",
+    "prices": [
+
+    ],
+    "website": "https://fantomdomains.io/",
+    "logo": "ftm.svg",
+    "chain": "Fantom Network",
+    "status": 2
+  },
+  {
+    "name": "Evmos Name Service",
+    "name_2": "Evmos Domains",
+    "desc": "The decentralized name service for linking the Evmos",
+    "tld": "evmos",
+    "checkk_link": "https://app.evmos.domains/#/name/((domain)).evmos/register",
+    "prices": [
+
+    ],
+    "website": "https://evmos.domains/",
+    "logo": "EVMOS.svg",
+    "chain": "EVMOS Network",
+    "status": 2
+  },  
+  {
+    "name": "Social Name System",
+    "name_2": "Link Key (SNS Chat)",
+    "desc": "Everyone needs to register for web 3.0",
+    "tld": "key",
+    "checkk_link": "https://sns.chat/name/((domain)).key/register",
+    "prices": [
+
+    ],
+    "website": "https://sns.chat/",
+    "logo": "linkkey.png",
+    "chain": "Polygon",
+    "status": 2
+  },  
+  {
+    "name": "Nomspace",
+    "name_2": "",
+    "desc": "One Nom to rule them all.",
+    "tld": "nom",
+    "checkk_link": "https://nom.space/#/((domain))",
+    "prices": [
+
+    ],
+    "website": "https://nom.space/#/",
+    "logo": "nom.svg",
+    "chain": "Celo Blockchain",
+    "status": 2
+  }, 
+  {
+    "name": "Steemit User Name",
+    "name_2": "Steemit",
+    "desc": "Decentralised Social Network",
+    "tld": "steem",
+    "checkk_link": "https://signup.steemit.com/",
+    "prices": [
+
+    ],
+    "website": "https://steemit.com/",
+    "logo": "steemit.svg",
+    "chain": "Steemit Blockchain",
+    "status": 2
+  },
+  {
+    "name": "Near Names",
+    "name_2": "",
+    "desc": "Claim a name for friends and family on the NEAR blockchain.",
+    "tld": "near",
+    "checkk_link": "https://nearnames.com/",
+    "prices": [
+
+    ],
+    "website": "https://nearnames.com/",
+    "logo": "near.png",
+    "chain": "Near Blockchain",
+    "status": 2
+  },  
+  {
+    "name": "Any Name Service",
+    "name_2": "",
+    "desc": "Tokenized Metaverse Passport",
+    "tld": "any",
+    "checkk_link": "https://anyside.com/",
+    "prices": [
+
+    ],
+    "website": "https://anyside.com/",
+    "logo": "any.jpg",
+    "chain": "Ethereum, Solona, Polygon",
+    "status": 2
+  },  
+  {
+    "name": "Ada Domains",
+    "name_2": "",
+    "desc": "Own a domain on the Cardano blockchain",
+    "tld": "ada",
+    "checkk_link": "https://www.adadomains.io/",
+    "prices": [
+
+    ],
+    "website": "https://www.adadomains.io/",
+    "logo": "ada.svg",
+    "chain": "Cardano Blockchain",
+    "status": 2
+  },  
+  {
+    "name": "RIF Name Service",
+    "name_2": "RSK Infrastructure Network",
+    "desc": "Unique names for your wallet addresses to seamlessly receive crypto assets.",
+    "tld": "rif",
+    "checkk_link": "https://www.rifos.org/nameservice/",
+    "prices": [
+
+    ],
+    "website": "https://www.rifos.org/",
+    "logo": "rif.svg",
+    "chain": "RSK Blockchain",
+    "status": 2
+  },  
+  {
+    "name": "Optimism Name Service",
+    "name_2": "OP Names",
+    "desc": "Decentralised digital identities.",
+    "tld": "op",
+    "checkk_link": "https://op-names.com/",
+    "prices": [
+
+    ],
+    "website": "https://op-names.com/",
+    "logo": "op.svg",
+    "chain": "Optimism",
+    "status": 2
+  } ,
+  {
+    "name": "Zilliqa Naming Service",
+    "name_2": "Unstoppable Domains",
+    "desc": "Decentralised digital identities.",
+    "tld": "zil",
+    "checkk_link": "https://unstoppabledomains.com/search?searchTerm=((domain)).zil&tab=all",
+    "prices": [
+
+    ],
+    "website": "https://unstoppabledomains.com/",
+    "logo": "unstopable.svg",
+    "chain": "Zilliqa",
+    "status": 2
+  },
+  {
+    "name": "Boba Naming Service",
+    "name_2": "Boba Domains",
+    "desc": "Name service for boba network",
+    "tld": "boba",
+    "checkk_link": "https://boba.webthreenames.com/",
+    "prices": [
+
+    ],
+    "website": "https://boba.webthreenames.com/",
+    "logo": "boba.jpg",
+    "chain": "Boba Network",
+    "status": 2
+  },
+  {
+    "name": "Algorand Naming Service",
+    "name_2": "Algorand Domains",
+    "desc": "ANS is a decentralized naming service designed for Algorand community.",
+    "tld": "algo",
+    "checkk_link": "https://algonameservice.com/#/search/((domain))",
+    "prices": [
+
+    ],
+    "website": "https://algonameservice.com/",
+    "logo": "algo_ans.jpg",
+    "chain": "Algorand Blockchain",
+    "status": 2
+  },
+  {
+    "name": "Aurora Naming Service",
+    "name_2": "Aurora Domains",
+    "desc": "Friendly Names for the Web3.",
+    "tld": "aurora",
+    "checkk_link": "https://auroradomains.dev/claimdomain",
+    "prices": [
+
+    ],
+    "website": "https://auroradomains.dev/",
+    "logo": "aurora.jpg",
+    "chain": "Aurora Network",
+    "status": 2
+  },  
+  {
+    "name": "Cronos Naming Service",
+    "name_2": "Cronos Domains",
+    "desc": "Your Cronos Identity",
+    "tld": "cro",
+    "checkk_link": "https://www.cronos.domains/search?q=((domain))",
+    "prices": [
+
+    ],
+    "website": "https://cronos.domains/",
+    "logo": "cronos.jpg",
+    "chain": "Cronos Blockchain",
+    "status": 2
+  },    
+  {
+    "name": "Bit name service",
+    "name_2": "Bit Us",
+    "desc": "Decentralized names are secured on the Bitcoin blockchain, registered by Stacks.",
+    "tld": "bit",
+    "checkk_link": "https://btc.us/?domain=((domain))",
+    "prices": [
+
+    ],
+    "website": "https://bit.us/",
+    "logo": "blockcstack_bitus.svg",
+    "chain": "Stacks",
+    "status": 2
+  },        
+  {
+    "name": "IC Naming",
+    "name_2": "IC Domains",
+    "desc": "Decentralized Digital Identities",
+    "tld": "ic",
+    "checkk_link": "https://app.icnaming.com/#/search/((domain))",
+    "prices": [
+
+    ],
+    "website": "https://icnaming.com/",
+    "logo": "ic.jpg",
+    "chain": "Internet Computer",
+    "status": 2
+  },     
+  {
+    "name": "Klaytn Name Service",
+    "name_2": "KNS Domains",
+    "desc": "Your .klay domain, Your on-chain identity.",
+    "tld": "klay",
+    "checkk_link": "https://app.klaytn.domains/domains?search=((domain))",
+    "prices": [
+
+    ],
+    "website": "https://klaytn.domains/",
+    "logo": "klay.jpg",
+    "chain": "Klaytn Computer",
+    "status": 2
+  },   
+  {
+    "name": "Decentralized Name Service",
+    "name_2": "(de)NS",
+    "desc": "(de)NS - The Decentralized Name Service Addressability for the interchain",
+    "tld": "juno",
+    "checkk_link": "https://dens.sh/tokens/mint/((domain))",
+    "prices": [
+
+    ],
+    "website": "https://dens.sh/",
+    "logo": "dens.svg",
+    "chain": "Juno Network",
+    "status": 2
+  },
+  {
+    "name": "Harmony Name Service",
+    "name_2": "HNS Domains",
+    "desc": "Decentralized Naming For Web3, Wallets and Usernames",
+    "tld": "hns",
+    "checkk_link": "https://hnsdomains.one/search/((domain))",
+    "prices": [
+
+    ],
+    "website": "https://hnsdomains.one/",
+    "logo": "HarmonyDomains.jpg",
+    "chain": "Harmony",
+    "status": 2
+  }, 
+  {
+    "name": "Starname",
+    "name_2": "",
+    "desc": "Names for cosmos ecosystem",
+    "tld": "*",
+    "checkk_link": "https://app.starname.me/manager/register",
+    "prices": [
+
+    ],
+    "website": "https://starname.me/",
+    "logo": "starname.jpg",
+    "chain": "Starname",
+    "status": 2
+  },  
+  {
+    "name": "Terra Name Service",
+    "name_2": "TNS",
+    "desc": "Claim your favorite .ust domain and create your on-chain profile with TNS",
+    "tld": "ust",
+    "checkk_link": "https://tns.money/domains?q=((domain))",
+    "prices": [
+
+    ],
+    "website": "https://tns.money/",
+    "logo": "terra_ust.jpg",
+    "chain": "Terra Network",
+    "status": 2
+  },
+  {
+    "name": "Arweave Name System",
+    "name_2": "TNS",
+    "desc": "Decentralized & incentivized gateways for the permaweb.",
+    "tld": "ArNS",
+    "checkk_link": "https://ar.io/",
+    "prices": [
+
+    ],
+    "website": "https://ar.io/",
+    "logo": "arns.jpg",
+    "chain": "Arweave Network",
+    "status": 2
+  },
+  {
+    "name": "Tomochain Name System",
+    "name_2": "Tomo NS",
+    "desc": "Tomochain Name System",
+    "tld": "tomo",
+    "checkk_link": "https://tomons.site/",
+    "prices": [
+
+    ],
+    "website": "https://tomons.site/",
+    "logo": "tomons.jpg",
+    "chain": "Tomochain",
+    "status": 2
+  },  
+  {
+    "name": "Hash Name Service",
+    "name_2": "Hashing Systems",
+    "desc": "Replace cryptocurrency id's with human readable names.",
+    "tld": "hh",
+    "checkk_link": "https://hns.domains/",
+    "prices": [
+
+    ],
+    "website": "https://hns.domains/",
+    "logo": "hh.png",
+    "chain": "Hedera Hashgraph",
+    "status": 2
+  },    
+  {
+    "name": "Ethereum Classic Name Service",
+    "name_2": "Hens Domains",
+    "desc": "Name service for Ethereum Classic.",
+    "tld": "etc",
+    "checkk_link": "https://hens.domains/",
+    "prices": [
+
+    ],
+    "website": "https://app.hens.domains/#/search?url=((domain))",
+    "logo": "etc.jpg",
+    "chain": "Ethereum Classic",
+    "status": 2
+  },    
+  {
+    "name": "Sui Name Service",
+    "name_2": "SuiNS",
+    "desc": "A service to simplify your web3 identity, website, or wallet.",
+    "tld": "sui",
+    "checkk_link": "https://www.suins.io/",
+    "prices": [
+
+    ],
+    "website": "https://www.suins.io/",
+    "logo": "sui.png",
+    "chain": "Sui Blockchain",
+    "status": 2
+  },
+  {
+    "name": "Ton Decentralised Name Service",
+    "name_2": "TON DNS",
+    "desc": "Ton Decentralised Name Service",
+    "tld": "ton",
+    "checkk_link": "https://ton.org/",
+    "prices": [
+
+    ],
+    "website": "https://ton.org/",
+    "logo": "ton.svg",
+    "chain": "The Open Network",
+    "status": 2
+  },
+  {
+    "name": "Energi Name Service",
+    "name_2": "",
+    "desc": "The Domains Blockchain for Everyone",
+    "tld": "nrg",
+    "checkk_link": "https://nrgdomains.xyz/",
+    "prices": [
+
+    ],
+    "website": "https://nrgdomains.xyz/",
+    "logo": "nrg.png",
+    "chain": "Energi Network",
+    "status": 2
+  },
+  {
+    "name": "NFT Name Service",
+    "name_2": "",
+    "desc": "Get your DID now",
+    "tld": "nft",
+    "checkk_link": "https://nft.space/",
+    "prices": [
+
+    ],
+    "website": "https://nft.space/",
+    "logo": "nftspace.jpg",
+    "chain": "Ethereum",
+    "status": 2
+  }     
+]
