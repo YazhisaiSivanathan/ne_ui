@@ -403,3 +403,26 @@
     );
   }
 }
+
+
+.aa::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+  color:    #00b2ff !important;
+}
+.aa:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+ color:    #00b2ff !important;
+ opacity:  1 !important;
+}
+.aa::-moz-placeholder { /* Mozilla Firefox 19+ */
+ color:    #00b2ff !important;
+ opacity:  1 !important;
+}
+.aa:-ms-input-placeholder { /* Internet Explorer 10-11 */
+ color:    #00b2ff !important;
+}
+.aa::-ms-input-placeholder { /* Microsoft Edge */
+ color:    #00b2ff !important;
+}
+
+.aa::placeholder { /* Most modern browsers support this now. */
+ color:    #00b2ff !important;
+}
