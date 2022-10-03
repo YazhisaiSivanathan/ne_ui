@@ -144,7 +144,7 @@
     "name": "Aptos Name System",
     "name_2": "",
     "desc": "Names for the metaverse",
-    "tld": "aptos",
+    "tld": "apt",
     "checkk_link": "https://www.aptosnames.com/name/((domain))",
     "prices": [
 
@@ -173,7 +173,7 @@
     "name_2": "Avvy Domains",
     "desc": "Naming service designed to support the Avalanche ecosystem and its various subnets",
     "tld": "avax",
-    "checkk_link": "https://app.avvy.domains/domains/asdadasd.((avax))",
+    "checkk_link": "https://app.avvy.domains/domains/((domain)).avax",
     "prices": [
 
     ],

@@ -227,6 +227,25 @@
     margin-right: 0rem !important;
   }
 
+  .homeClass .mobilesearch {
+    display: none !important;
+  }
+
+  .homeClass .homesearch form {
+    display: block !important;
+  }
+
+  .welcome-text {
+    margin-top: 10rem;
+  }
+
+  .homeClass .homesearch input {
+    height: 45px !important;
+    font-size: 1rem !important;
+    margin-top: 0px !important;
+  }
+
+
 }
 
 .fill-primary {
