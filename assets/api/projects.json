@@ -113,6 +113,20 @@
     "status": 1
   },  
   {
+    "name": "Evmos Name Service",
+    "name_2": "Evmos Domains",
+    "desc": "The decentralized name service for linking the Evmos",
+    "tld": "evmos",
+    "checkk_link": "https://app.evmos.domains/#/name/((domain)).evmos/register",
+    "prices": [
+
+    ],
+    "website": "https://evmos.domains/",
+    "logo": "EVMOS.svg",
+    "chain": "EVMOS Network",
+    "status": 1
+  },    
+  {
     "name": "Deso Username",
     "name_2": "Deso",
     "desc": "The Decentralized Social Blockchain",
@@ -127,7 +141,7 @@
     "status": 2
   },   
   {
-    "name": "Bit Names",
+    "name": "DID ID Bit Names",
     "name_2": "DID ID",
     "desc": "Cross-chain Web3 identities for you and your community",
     "tld": "bit",
@@ -210,20 +224,7 @@
     "chain": "Fantom Network",
     "status": 2
   },
-  {
-    "name": "Evmos Name Service",
-    "name_2": "Evmos Domains",
-    "desc": "The decentralized name service for linking the Evmos",
-    "tld": "evmos",
-    "checkk_link": "https://app.evmos.domains/#/name/((domain)).evmos/register",
-    "prices": [
 
-    ],
-    "website": "https://evmos.domains/",
-    "logo": "EVMOS.svg",
-    "chain": "EVMOS Network",
-    "status": 2
-  },  
   {
     "name": "Social Name System",
     "name_2": "Link Key (SNS Chat)",
@@ -310,9 +311,9 @@
   },  
   {
     "name": "RIF Name Service",
-    "name_2": "RSK Infrastructure Network",
+    "name_2": "RNS Domains",
     "desc": "Unique names for your wallet addresses to seamlessly receive crypto assets.",
-    "tld": "rif",
+    "tld": "rsk",
     "checkk_link": "https://www.rifos.org/nameservice/",
     "prices": [
 
@@ -407,7 +408,7 @@
     "status": 2
   },    
   {
-    "name": "Bit name service",
+    "name": "Bitcoin name service",
     "name_2": "Bit Us",
     "desc": "Decentralized names are secured on the Bitcoin blockchain, registered by Stacks.",
     "tld": "bit",
