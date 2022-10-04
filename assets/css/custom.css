@@ -445,3 +445,11 @@
 .aa::placeholder { /* Most modern browsers support this now. */
  color:    #00b2ff !important;
 }
+
+/* DARK MODE */
+
+
+abody {
+  background-color: #181C32
+}
+

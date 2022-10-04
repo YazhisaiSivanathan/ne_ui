@@ -127,6 +127,20 @@
     "status": 1
   },    
   {
+    "name": "Cronos Naming Service",
+    "name_2": "Cronos Domains",
+    "desc": "Your Cronos Identity",
+    "tld": "cro",
+    "checkk_link": "https://www.cronos.domains/search?q=((domain))",
+    "prices": [
+
+    ],
+    "website": "https://cronos.domains/",
+    "logo": "cronos.jpg",
+    "chain": "Cronos Blockchain",
+    "status": 1
+  },    
+  {
     "name": "Deso Username",
     "name_2": "Deso",
     "desc": "The Decentralized Social Blockchain",
@@ -393,20 +407,7 @@
     "chain": "Aurora Network",
     "status": 2
   },  
-  {
-    "name": "Cronos Naming Service",
-    "name_2": "Cronos Domains",
-    "desc": "Your Cronos Identity",
-    "tld": "cro",
-    "checkk_link": "https://www.cronos.domains/search?q=((domain))",
-    "prices": [
-
-    ],
-    "website": "https://cronos.domains/",
-    "logo": "cronos.jpg",
-    "chain": "Cronos Blockchain",
-    "status": 2
-  },    
+  
   {
     "name": "Bitcoin name service",
     "name_2": "Bit Us",
