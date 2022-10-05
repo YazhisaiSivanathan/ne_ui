@@ -155,6 +155,20 @@
     "status": 1
   },     
   {
+    "name": "Klaytn Name Service",
+    "name_2": "KNS Domains",
+    "desc": "Your .klay domain, Your on-chain identity.",
+    "tld": "klay",
+    "checkk_link": "https://app.klaytn.domains/domains?search=((domain))",
+    "prices": [
+
+    ],
+    "website": "https://klaytn.domains/",
+    "logo": "klay.jpg",
+    "chain": "Klaytn Computer",
+    "status": 1
+  },
+  {
     "name": "Deso Username",
     "name_2": "Deso",
     "desc": "The Decentralized Social Blockchain",
@@ -437,20 +451,7 @@
     "chain": "Internet Computer",
     "status": 2
   },     
-  {
-    "name": "Klaytn Name Service",
-    "name_2": "KNS Domains",
-    "desc": "Your .klay domain, Your on-chain identity.",
-    "tld": "klay",
-    "checkk_link": "https://app.klaytn.domains/domains?search=((domain))",
-    "prices": [
-
-    ],
-    "website": "https://klaytn.domains/",
-    "logo": "klay.jpg",
-    "chain": "Klaytn Computer",
-    "status": 2
-  },   
+   
   {
     "name": "Decentralized Name Service",
     "name_2": "(de)NS",
