@@ -562,7 +562,7 @@
     "website": "https://app.hens.domains/#/search?url=((domain))",
     "logo": "etc.jpg",
     "chain": "Ethereum Classic",
-    "status": 2
+    "status": 1
   },    
   {
     "name": "Sui Name Service",
