@@ -141,6 +141,20 @@
     "status": 1
   },    
   {
+    "name": "Avalanche Name Service",
+    "name_2": "Avvy Domains",
+    "desc": "Naming service designed to support the Avalanche ecosystem and its various subnets",
+    "tld": "avax",
+    "checkk_link": "https://app.avvy.domains/domains/((domain)).avax",
+    "prices": [
+
+    ],
+    "website": "https://avvy.domains/",
+    "logo": "avax.svg",
+    "chain": "Avalanche Network",
+    "status": 1
+  },     
+  {
     "name": "Deso Username",
     "name_2": "Deso",
     "desc": "The Decentralized Social Blockchain",
@@ -196,20 +210,7 @@
     "chain": "Polkadot",
     "status": 2
   },     
-  {
-    "name": "Avalanche Name Service",
-    "name_2": "Avvy Domains",
-    "desc": "Naming service designed to support the Avalanche ecosystem and its various subnets",
-    "tld": "avax",
-    "checkk_link": "https://app.avvy.domains/domains/((domain)).avax",
-    "prices": [
-
-    ],
-    "website": "https://avvy.domains/",
-    "logo": "avax.svg",
-    "chain": "Avalanche Network",
-    "status": 2
-  },    
+ 
   {
     "name": "Neo Name Service",
     "name_2": "Neo NS",
