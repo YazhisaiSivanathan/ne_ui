@@ -446,6 +446,11 @@
  color:    #00b2ff !important;
 }
 
+.cls-tld-evmos .symbol-label,
+.cls-tld-steem .symbol-label {
+  font-size: 1.1rem !important;
+}
+
 /* DARK MODE */
 
 
