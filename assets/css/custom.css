@@ -79,9 +79,38 @@
 /* SM */
 @media (max-width: 991px) { 
   input.search{
-    height: 45px !important;
+    height: 38px !important;
     font-size: 1rem !important;
+    margin-top: 1px !important;
+  }
+
+  .homeClass .mobilesearch {
+    display: none !important;
+  }
+  .homesearch input {
+    margin-top: 1px !important;
+  }
+
+  .nonhomeClass .mobilesearch {
     margin-top: 15px !important;
+  }
+
+  .features .list-group p,
+  .features .list-group small,
+  .features .list-group-item, 
+  .list-group-item, 
+  .features .list-group h5 {
+    text-align: left !important;
+  }
+
+
+
+  .features .list-group .justify-content-between small {
+    text-align: right !important;
+  }
+
+  .flex-row-reverse-xs {
+    flex-direction: row-reverse !important;
   }
   
 }
@@ -219,7 +248,7 @@
 
   .btn-src {
     color: #fff !important;
-    background: #00b2ff !important;
+    background: #F1416C !important;
   }
 
   .mx-xs-0 {
@@ -333,7 +362,7 @@
 }
 .homesearch .btn-src {
   color: #ffffff;
-  background: #00b2ff;
+  background: #F1416C;
 }
 
 /* Tooltip container */
@@ -446,9 +475,8 @@
  color:    #00b2ff !important;
 }
 
-.cls-tld-evmos .symbol-label,
-.cls-tld-steem .symbol-label {
-  font-size: 1.1rem !important;
+.features .list-group-item {
+  min-height: 140px !important;
 }
 
 /* DARK MODE */

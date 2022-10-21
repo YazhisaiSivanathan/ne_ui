@@ -11,8 +11,7 @@
     "website": "https://ens.domains",
     "logo": "ens.svg",
     "chain": "Ethereum",
-    "status": 1,
-    "sep": "."
+    "status": 1
   },
   {
     "name": "BNB Name Service",
@@ -26,9 +25,7 @@
     "website": "https://space.id/",
     "logo": "bnb.svg",
     "chain": "Binance Smart Chain",
-    "status": 1,
-    "sep": "."
-
+    "status": 1
   },
   {
     "name": "Tezos Domains",
@@ -42,9 +39,7 @@
     "website": "https://tezos.domains/",
     "logo": "tez.svg",
     "chain": "Tezos",
-    "status": 1,
-    "sep": "."
-
+    "status": 1
   },
   {
     "name": "Lens Protocol",
@@ -58,9 +53,7 @@
     "website": "https://claim.lens.xyz/",
     "logo": "lens.svg",
     "chain": "Polygon",
-    "status": 1,
-    "sep": "."
-
+    "status": 1
   },  
   {
     "name": "Solana Name Service",
@@ -75,9 +68,7 @@
     "logo": "sol.svg",
     "chain": "Solona",
     "status": 1,
-    "notes": "Add Expiry date for domains.",
-    "sep": "."
-
+    "notes": "Add Expiry date for domains."
   },    
   {
     "name": "Handshake Names",
@@ -91,9 +82,7 @@
     "website": "https://handshake.org/",
     "logo": "hns.svg",
     "chain": "Handshake Network",
-    "status": 1,
-    "sep": "/"
-
+    "status": 1
   },
   {
     "name": "Flow Name Service (FN)",
@@ -107,9 +96,7 @@
     "website": "https://www.flowns.org/",
     "logo": "flow.svg",
     "chain": "Flow Blockchain",
-    "status": 1,
-    "sep": "."
-
+    "status": 1
   },
   {
     "name": "Flow Name Service (Meow)",
@@ -123,9 +110,7 @@
     "website": "https://www.flowns.org/",
     "logo": "flow.svg",
     "chain": "Flow Blockchain",
-    "status": 1,
-    "sep": "."
-
+    "status": 1
   },  
   {
     "name": "Evmos Name Service",
@@ -139,9 +124,7 @@
     "website": "https://evmos.domains/",
     "logo": "EVMOS.svg",
     "chain": "EVMOS Network",
-    "status": 1,
-    "sep": "."
-
+    "status": 1
   },    
   {
     "name": "Cronos Naming Service",
@@ -155,9 +138,7 @@
     "website": "https://cronos.domains/",
     "logo": "cronos.jpg",
     "chain": "Cronos Blockchain",
-    "status": 1,
-    "sep": "."
-
+    "status": 1
   },    
   {
     "name": "Avalanche Name Service",
@@ -171,9 +152,7 @@
     "website": "https://avvy.domains/",
     "logo": "avax.svg",
     "chain": "Avalanche Network",
-    "status": 1,
-    "sep": "."
-
+    "status": 1
   },     
   {
     "name": "Klaytn Name Service",
@@ -187,9 +166,7 @@
     "website": "https://klaytn.domains/",
     "logo": "klay.jpg",
     "chain": "Klaytn Computer",
-    "status": 1,
-    "sep": "."
-
+    "status": 1
   },
   {
     "name": "Deso Username",
@@ -203,9 +180,7 @@
     "website": "https://www.deso.org/",
     "logo": "deso.svg",
     "chain": "DeSo Blockchain",
-    "status": 2,
-    "sep": "@"
-
+    "status": 2
   },   
   {
     "name": "DID ID Bit Names",
@@ -219,9 +194,7 @@
     "website": "https://www.did.id/",
     "logo": "didid.svg",
     "chain": "Ethereum, Polygon, BSC and Tron",
-    "status": 2,
-    "sep": "."
-
+    "status": 2
   },
   {
     "name": "Aptos Name System",
@@ -235,9 +208,7 @@
     "website": "https://www.aptosnames.com",
     "logo": "aptos.svg",
     "chain": "Aptos",
-    "status": 2,
-    "sep": "."
-
+    "status": 2
   },       
   {
     "name": "Polkadot Name System",
@@ -251,9 +222,7 @@
     "website": "https://www.pns.link/",
     "logo": "pns.svg",
     "chain": "Polkadot",
-    "status": 1,
-    "sep": "."
-
+    "status": 1
   },     
  
   {
@@ -268,9 +237,7 @@
     "website": "https://neo.link/",
     "logo": "neons.svg",
     "chain": "Neo Blockchain",
-    "status": 1,
-    "sep": "."
-
+    "status": 2
   },  
   {
     "name": "Fantom Name Service",
@@ -284,9 +251,7 @@
     "website": "https://fantomdomains.io/",
     "logo": "ftm.svg",
     "chain": "Fantom Network",
-    "status": 1,
-    "sep": "."
-
+    "status": 1
   },
 
   {
@@ -301,9 +266,7 @@
     "website": "https://sns.chat/",
     "logo": "linkkey.png",
     "chain": "Polygon",
-    "status": 1,
-    "sep": "."
-
+    "status": 2
   },  
   {
     "name": "Nomspace",
@@ -317,9 +280,7 @@
     "website": "https://nom.space/#/",
     "logo": "nom.svg",
     "chain": "Celo Blockchain",
-    "status": 2,
-    "sep": "."
-
+    "status": 2
   }, 
   {
     "name": "Steemit User Name",
@@ -333,9 +294,7 @@
     "website": "https://steemit.com/",
     "logo": "steemit.svg",
     "chain": "Steemit Blockchain",
-    "status": 1,
-    "sep": "@"
-
+    "status": 2
   },
   {
     "name": "Near Names",
@@ -349,9 +308,7 @@
     "website": "https://nearnames.com/",
     "logo": "near.png",
     "chain": "Near Blockchain",
-    "status": 2,
-    "sep": "."
-
+    "status": 2
   },  
   {
     "name": "Any Name Service",
@@ -365,9 +322,7 @@
     "website": "https://anyside.com/",
     "logo": "any.jpg",
     "chain": "Ethereum, Solona, Polygon",
-    "status": 2,
-    "sep": "."
-
+    "status": 2
   },  
   {
     "name": "Ada Domains",
@@ -381,9 +336,7 @@
     "website": "https://www.adadomains.io/",
     "logo": "ada.svg",
     "chain": "Cardano Blockchain",
-    "status": 2,
-    "sep": "."
-
+    "status": 2
   },  
   {
     "name": "RIF Name Service",
@@ -397,9 +350,7 @@
     "website": "https://www.rifos.org/",
     "logo": "rif.svg",
     "chain": "RSK Blockchain",
-    "status": 2,
-    "sep": "."
-
+    "status": 2
   },  
   {
     "name": "Optimism Name Service",
@@ -413,9 +364,7 @@
     "website": "https://op-names.com/",
     "logo": "op.svg",
     "chain": "Optimism",
-    "status": 2,
-    "sep": "."
-
+    "status": 2
   } ,
   {
     "name": "Zilliqa Naming Service",
@@ -429,9 +378,7 @@
     "website": "https://unstoppabledomains.com/",
     "logo": "unstopable.svg",
     "chain": "Zilliqa",
-    "status": 2,
-    "sep": "."
-
+    "status": 2
   },
   {
     "name": "Boba Naming Service",
@@ -445,9 +392,7 @@
     "website": "https://boba.webthreenames.com/",
     "logo": "boba.jpg",
     "chain": "Boba Network",
-    "status": 2,
-    "sep": "."
-
+    "status": 2
   },
   {
     "name": "Algorand Naming Service",
@@ -461,9 +406,7 @@
     "website": "https://algonameservice.com/",
     "logo": "algo_ans.jpg",
     "chain": "Algorand Blockchain",
-    "status": 2,
-    "sep": "."
-
+    "status": 2
   },
   {
     "name": "Aurora Naming Service",
@@ -477,9 +420,7 @@
     "website": "https://auroradomains.dev/",
     "logo": "aurora.jpg",
     "chain": "Aurora Network",
-    "status": 2,
-    "sep": "."
-
+    "status": 2
   },  
   
   {
@@ -494,9 +435,7 @@
     "website": "https://bit.us/",
     "logo": "blockcstack_bitus.svg",
     "chain": "Stacks",
-    "status": 2,
-    "sep": "."
-
+    "status": 2
   },        
   {
     "name": "IC Naming",
@@ -510,9 +449,7 @@
     "website": "https://icnaming.com/",
     "logo": "ic.jpg",
     "chain": "Internet Computer",
-    "status": 2,
-    "sep": "."
-
+    "status": 2
   },     
    
   {
@@ -527,9 +464,7 @@
     "website": "https://dens.sh/",
     "logo": "dens.svg",
     "chain": "Juno Network",
-    "status": 2,
-    "sep": "."
-
+    "status": 2
   },
   {
     "name": "Harmony Name Service",
@@ -543,9 +478,7 @@
     "website": "https://hnsdomains.one/",
     "logo": "HarmonyDomains.jpg",
     "chain": "Harmony",
-    "status": 2,
-    "sep": "."
-
+    "status": 2
   }, 
   {
     "name": "Starname",
@@ -559,9 +492,7 @@
     "website": "https://starname.me/",
     "logo": "starname.jpg",
     "chain": "Starname",
-    "status": 2,
-    "sep": "*"
-
+    "status": 2
   },  
   {
     "name": "Terra Name Service",
@@ -575,9 +506,7 @@
     "website": "https://tns.money/",
     "logo": "terra_ust.jpg",
     "chain": "Terra Network",
-    "status": 2,
-    "sep": "."
-
+    "status": 2
   },
   {
     "name": "Arweave Name System",
@@ -591,9 +520,7 @@
     "website": "https://ar.io/",
     "logo": "arns.jpg",
     "chain": "Arweave Network",
-    "status": 2,
-    "sep": "."
-
+    "status": 2
   },
   {
     "name": "Tomochain Name System",
@@ -607,9 +534,7 @@
     "website": "https://tomons.site/",
     "logo": "tomons.jpg",
     "chain": "Tomochain",
-    "status": 2,
-    "sep": "."
-
+    "status": 2
   },  
   {
     "name": "Hash Name Service",
@@ -623,9 +548,7 @@
     "website": "https://hns.domains/",
     "logo": "hh.png",
     "chain": "Hedera Hashgraph",
-    "status": 2,
-    "sep": "."
-
+    "status": 2
   },    
   {
     "name": "Ethereum Classic Name Service",
@@ -639,9 +562,7 @@
     "website": "https://app.hens.domains/#/search?url=((domain))",
     "logo": "etc.jpg",
     "chain": "Ethereum Classic",
-    "status": 1,
-    "sep": "."
-
+    "status": 1
   },    
   {
     "name": "Sui Name Service",
@@ -655,9 +576,7 @@
     "website": "https://www.suins.io/",
     "logo": "sui.png",
     "chain": "Sui Blockchain",
-    "status": 2,
-    "sep": "."
-
+    "status": 2
   },
   {
     "name": "Ton Decentralised Name Service",
@@ -671,9 +590,7 @@
     "website": "https://ton.org/",
     "logo": "ton.svg",
     "chain": "The Open Network",
-    "status": 2,
-    "sep": "."
-
+    "status": 2
   },
   {
     "name": "Energi Name Service",
@@ -687,9 +604,7 @@
     "website": "https://nrgdomains.xyz/",
     "logo": "nrg.png",
     "chain": "Energi Network",
-    "status": 2,
-    "sep": "."
-
+    "status": 2
   },
   {
     "name": "NFT Name Service",
@@ -703,8 +618,6 @@
     "website": "https://nft.space/",
     "logo": "nftspace.jpg",
     "chain": "Ethereum",
-    "status": 2,
-    "sep": "."
-
+    "status": 2
   }     
 ]
